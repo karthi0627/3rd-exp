@@ -28,6 +28,8 @@ END
 ```
 
 ## OUTPUT
+<img width="957" height="217" alt="square" src="https://github.com/user-attachments/assets/c9b6f86b-3fef-470d-a33b-6de10dd77b30" />
+
 
 
 
@@ -77,6 +79,7 @@ END
 
 ![alt text](cube.png)
 
+<img width="961" height="257" alt="cube" src="https://github.com/user-attachments/assets/7e3b855b-2070-47c1-8667-c50b28044a1d" />
 
 
 
